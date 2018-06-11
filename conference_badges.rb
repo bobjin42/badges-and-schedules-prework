@@ -10,6 +10,7 @@ def batch_badge_creator(array)
   while i < array.length;
   new_array.push(badge_maker(array[i]))
   i += 1;
-  return new_array
+  
   end
+  return new_array
 end
