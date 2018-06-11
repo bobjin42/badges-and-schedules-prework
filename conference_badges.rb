@@ -17,6 +17,7 @@ end
 
 def assign_rooms(array)
   new_array = []
-  
+  each_with_index do|item, index|
+  phrase = "Hello, #{item}! "
 
 end
