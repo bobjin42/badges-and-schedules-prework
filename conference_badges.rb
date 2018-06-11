@@ -22,5 +22,8 @@ def assign_rooms(array)
   new_array.push(phrase)
   end
   return new_array
+end
 
+def printer(array)
+  
 end
