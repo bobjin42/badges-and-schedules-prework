@@ -20,7 +20,7 @@ def assign_rooms(array)
   each_with_index do|item, index|
   phrase = "Hello, #{item}! You'll be assigned to room #{index + 1}"
   new_array.push(phrase)
-end
+  end
   return new_array
 
 end
